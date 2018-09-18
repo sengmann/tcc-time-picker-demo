@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "TccTimePicker": [
+        "dist/tcc-time-picker"
+      ],
+      "TccTimePicker/*": [
+        "dist/tcc-time-picker/*"
+      ]
+    }
   }
 }
